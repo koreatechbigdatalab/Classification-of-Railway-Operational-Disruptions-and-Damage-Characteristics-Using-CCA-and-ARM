@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local R and Node dependencies
+work/Rlibs
+work/node_modules
+
+# Temporary render and inspection files
+work/tmp/
+*.inspect.ndjson
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
